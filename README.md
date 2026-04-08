@@ -1,4 +1,3 @@
-# Eye-Tracking
 # Eye-Tracking Based Urban Navigation Decision System
 **Track the Eyes, Track the Mind**
 
