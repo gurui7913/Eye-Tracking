@@ -113,7 +113,7 @@ pip install opencv-python numpy pandas matplotlib
 ---
 
 ## Team
-- **Rui Gu** — Project Lead, experiment design, data collection,  research framework
-- Hexin Han — ML pipeline implementation
+- **Rui Gu** — Project Lead, Research Design, Technical Direction, Experiment Coordination
+ - Hexin Han — ML pipeline Implementation  
 
 *UCL Architectural Computation Studio 1, December 2024*
