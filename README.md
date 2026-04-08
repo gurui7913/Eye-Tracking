@@ -15,19 +15,15 @@ on for wayfinding decisions when searching for a train station?
 ---
 
 ## Pipeline Overview
-Eye-tracking Experiment (GazeRecorder)
-↓
-Heatmap Generation (5 participants × 13 SVIs)
-↓
-Visual Feature Extraction (CLIP ViT-B/32)
-↓
-Text Feature Extraction (CLIP, voice-to-text descriptions)
-↓
-Cosine Similarity Analysis
-↓
-Path Decision Classification (Random Forest + SMOTE)
-↓
-Heatmap Prediction (Vision Transformer)
+
+- Eye-tracking Experiment (GazeRecorder)
+- Heatmap Generation (5 participants × 13 SVIs)
+- Visual Feature Extraction (CLIP ViT-B/32)
+- Text Feature Extraction (CLIP, voice-to-text descriptions)
+- Cosine Similarity Analysis
+- Path Decision Classification (Random Forest + SMOTE)
+- Heatmap Prediction (Vision Transformer)
+ 
 ---
 
 ## Methods
